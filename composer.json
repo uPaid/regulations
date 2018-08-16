@@ -1,8 +1,8 @@
 {
-  "name": "uPaid/regulations",
+  "name": "upaid/regulations",
   "description": "Download regultions from remote repository by artisan command.",
   "license": "MIT",
-  "homepage": "https://github.com/uPaid/regulations",
+  "homepage": "https://github.com/upaid/regulations",
   "autoload": {
     "psr-4": {
       "Upaid\\Regulations\\": "src"
